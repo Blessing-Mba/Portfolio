@@ -107,4 +107,17 @@
           margin-left: -9rem;
       }
 }
+@media only screen 
+  and (min-device-width: 390px) 
+  and (max-device-width: 530px) 
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 2) {
 
+
+      .skill-png{
+          margin-right: 2.5rem;
+      }
+     .contact-png{
+      margin-right: 7rem;
+    }
+ }
